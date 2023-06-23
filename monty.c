@@ -4,8 +4,8 @@ stack_t *head = NULL;
 
 /**
  * main - main
- * @argc: ..
- * @argv: ....
+ * @argc: argument counter
+ * @argv: pointer to arguments
  * Return: 0
  */
 int main(__attribute__((unused)) int argc, char *argv[])
